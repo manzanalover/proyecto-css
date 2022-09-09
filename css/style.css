@@ -85,6 +85,9 @@ a {
 .tablero{
     background-color: grey;
     display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -105,9 +108,7 @@ a {
     
     
 }
-
-.teste{
-    background-color: blue;
-    color: brown;
-
+.prueba {
+    background-color: chocolate;
+    color: beige;
 }
